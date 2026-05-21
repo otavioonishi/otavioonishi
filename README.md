@@ -1,4 +1,4 @@
-# Oi, eu sou o Onls
+# Meu nome é Otávio Onishi 
 
 >Sou estudante do curso técnico em Desenvolvimento de Sistemas e concluí o Ensino Médio. Atualmente, trabalho na empresa Aptiv, onde atuo dando suporte à área de Engenharia, contribuindo para o desenvolvimento e aprimoramento de projetos técnicos.
 
