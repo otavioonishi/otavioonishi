@@ -6,5 +6,5 @@ Tenho interesse em ampliar meus conhecimentos na área de tecnologia, programaç
 
 ## Entre em contato comigo
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-Email:@gmail.com
-https://tanstack-start-app.vakinhayuri.workers.deev
+Email:otavioadilsononishi@gmail.com
+
